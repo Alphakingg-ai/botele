@@ -1,0 +1,42 @@
+{
+  "name": "alphakingg-bot",
+  "version": "3.1.0",
+  "description": "original script by mhankbarbar, recode by alphakingg",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Lu mau ngapaen bro?\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "alphakingg",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "Alphakingg",
+  "license": "ISC",
+  "dependencies": {
+    "brainly-scraper": "^1.0.3",
+    "delay": "^5.0.0",
+    "google-tts-api": "^2.0.2",
+    "image-to-base64": "^2.2.0",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "telebot": "^1.4.1",
+    "text-summarisation": "^2.0.0",
+    "ytdl-core": "^4.9.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhankbarbar/termux-wabot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mhankbarbar/termux-wabot/issues"
+  },
+  "homepage": "https://github.com/mhankbarbar/termux-wabot#readme"
+}
